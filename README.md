@@ -50,8 +50,8 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-## Add/Post/View Comments
+### Add/Post/View Comments
 <img src='http://g.recordit.co/pzSYOR2YRj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-## Logout
+### Logout
 <img src='http://g.recordit.co/DmUD0QVzGp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
