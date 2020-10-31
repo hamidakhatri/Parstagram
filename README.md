@@ -23,8 +23,21 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
+### User sees app icon in home screen and styled launch screen
+
+<img src='http://g.recordit.co/ico5ji7rFM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### User can sign up to create a new account
+
+<img src='http://g.recordit.co/HMx94ij38p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+### User can log in, take a photo, add a caption, and post it to the server
+
 <img src='http://g.recordit.co/olWRVRTBeQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+### User can view the last 20 posts
+
+<img src='http://g.recordit.co/hIdJ5X8hRh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part II
 
