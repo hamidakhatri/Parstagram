@@ -29,7 +29,7 @@ Here's a walkthrough of implemented user stories:
 
 ### User can sign up to create a new account
 
-<img src='http://g.recordit.co/HMx94ij38p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/HMx94ij38p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> 
 
 ### User can log in, take a photo, add a caption, and post it to the server
 
