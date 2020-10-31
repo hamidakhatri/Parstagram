@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 ### User can log in, take a photo, add a caption, and post it to the server
 
-<img src='http://g.recordit.co/olWRVRTBeQ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/9vh2zcMs6p.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ### User can view the last 20 posts
 
