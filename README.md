@@ -56,9 +56,6 @@ Here's a walkthrough of implemented user stories:
 ### User can log out
 <img src='http://g.recordit.co/2lvFuDoe75.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-XXX
-<img src='http://g.recordit.co/DmUD0QVzGp.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
 ### User can view and add comment(s) on a post
 <img src='http://g.recordit.co/pzSYOR2YRj.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
