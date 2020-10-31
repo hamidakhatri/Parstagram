@@ -37,7 +37,7 @@ Here's a walkthrough of implemented user stories:
 
 ### User can view the last 20 posts
 
-<img src='http://g.recordit.co/hIdJ5X8hRh.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/S6XUx0y3Oc.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 # Parstagram - Part II
 
